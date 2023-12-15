@@ -1,0 +1,1 @@
+This is sample file i created to check the js code readfile module.
