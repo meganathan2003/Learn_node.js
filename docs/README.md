@@ -51,7 +51,7 @@ npx husky add .husky/commit-msg  'npx --no -- commitlint --edit ${1}'
 
 ## For more Details about Commitlint use this repo
 
-The git repo i used for ref is [Ref Repo]("https://github.com/conventional-changelog/commitlint/?tab=readme-ov-file#what-is-commitlint")
+The git repo i used for ref is [Ref Repo]("https://github.com/conventional-changelog/commitlint/?tab=readme-ov-file#what-is-commitlint").
 
 
 
